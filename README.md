@@ -3,7 +3,7 @@
 This project aims to create a web application for managing obituaries, allowing users to submit, manage, and view obituaries easily. It includes features for search engine optimization (SEO) and social media optimization (SMO) to enhance visibility and engagement.
 
 ## Framework
-The project is developed using [Framework Name], chosen for its [reasons, e.g., robustness, familiarity within the team].
+The project is developed using [javascript,html,css], chosen for its [ robustness, familiarity within the team].
 
 ## Features
 Submit Obituaries: Users can submit obituaries via a user-friendly HTML form.
