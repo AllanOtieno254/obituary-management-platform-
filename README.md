@@ -8,7 +8,7 @@ This project aims to create a web application for managing obituaries, allowing 
 ![output1](https://github.com/user-attachments/assets/ff88a5c5-2c11-4642-8af5-6ff4377b50e2)
 
 ## Framework
-The project is developed using [Framework Name], chosen for its [reasons, e.g., robustness, familiarity within the team].
+The project is developed using [html,css,js,php], chosen for its [ robustness, familiarity within the team].
 
 ## Features
 Submit Obituaries: Users can submit obituaries via a user-friendly HTML form.
@@ -52,6 +52,6 @@ Contributions are welcome! Please fork the repository and submit pull requests t
 [License type, e.g., MIT]
 
 Contact
-For any inquiries or support, please contact [allan otieno] at [santozkoky6@gmail.com].
+For any inquiries or support, please contact [allan otieno] at [allanotieno2001@gmail.com].
 
 This README provides a structured overview of your project, covering essential details like features, technologies used, project structure, setup instructions, usage guidelines, and information for potential contributors. Adjust the placeholders ([Framework Name], [Database System], etc.) with actual details relevant to your project. 
