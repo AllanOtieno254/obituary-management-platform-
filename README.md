@@ -8,7 +8,7 @@ This project aims to create a web application for managing obituaries, allowing 
 ![output1](https://github.com/user-attachments/assets/ff88a5c5-2c11-4642-8af5-6ff4377b50e2)
 
 ## Framework
-The project is developed using [html,css,js,php], chosen for its [ robustness, familiarity within the team].
+The project is developed using [nodejs css html django seo-optimization typrescript], chosen for its [ robustness, familiarity within the team].
 
 ## Features
 Submit Obituaries: Users can submit obituaries via a user-friendly HTML form.
