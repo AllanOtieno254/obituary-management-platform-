@@ -1,9 +1,14 @@
 # Obituary Management Platform
+
+![output2](https://github.com/user-attachments/assets/64bee4f8-f6c7-4354-a17e-949533784895)
+
 ## Overview
 This project aims to create a web application for managing obituaries, allowing users to submit, manage, and view obituaries easily. It includes features for search engine optimization (SEO) and social media optimization (SMO) to enhance visibility and engagement.
 
+![output1](https://github.com/user-attachments/assets/ff88a5c5-2c11-4642-8af5-6ff4377b50e2)
+
 ## Framework
-The project is developed using [javascript,html,css], chosen for its [ robustness, familiarity within the team].
+The project is developed using [Framework Name], chosen for its [reasons, e.g., robustness, familiarity within the team].
 
 ## Features
 Submit Obituaries: Users can submit obituaries via a user-friendly HTML form.
